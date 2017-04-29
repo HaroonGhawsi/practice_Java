@@ -11,6 +11,11 @@ import static org.junit.Assert.*;
 
 /**
  * Created by HaroonGhawsi on 4/29/2017.
+ *
+ * JUnit v4. Practice and Demo Code.
+ * All tests are Passed Successfully
+ * The example has been taken from https://github.com/junit-team/junit4/wiki/Assertions
+ *
  */
 public class AssertTests {
 
